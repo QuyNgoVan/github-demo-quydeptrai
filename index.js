@@ -65,3 +65,4 @@ function main() {
 
 }
 main();
+console.log('anh quy dep trai');
